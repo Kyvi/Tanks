@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TanksReloaded.CSharp.Plugins", "TanksReloaded.CSharp.Plugins.csproj", "{A1CFBF5C-FD2F-BE03-53A5-D39F00A19D4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TanksReloaded.CSharp", "TanksReloaded.CSharp.csproj", "{F66A0128-1389-68EE-EA7B-2E51A71B2A92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TanksReloaded.CSharp.Editor", "TanksReloaded.CSharp.Editor.csproj", "{71F8598E-D5A8-4F75-236D-F5CFC4345659}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1CFBF5C-FD2F-BE03-53A5-D39F00A19D4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1CFBF5C-FD2F-BE03-53A5-D39F00A19D4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1CFBF5C-FD2F-BE03-53A5-D39F00A19D4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1CFBF5C-FD2F-BE03-53A5-D39F00A19D4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F66A0128-1389-68EE-EA7B-2E51A71B2A92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F66A0128-1389-68EE-EA7B-2E51A71B2A92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F66A0128-1389-68EE-EA7B-2E51A71B2A92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F66A0128-1389-68EE-EA7B-2E51A71B2A92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71F8598E-D5A8-4F75-236D-F5CFC4345659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71F8598E-D5A8-4F75-236D-F5CFC4345659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71F8598E-D5A8-4F75-236D-F5CFC4345659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71F8598E-D5A8-4F75-236D-F5CFC4345659}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
